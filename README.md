@@ -1,4 +1,4 @@
-This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
+This is a starter template for [Ionic3](http://ionicframework.com/docs/) projects.
 
 ```bash
 $ sudo npm install -g ionic cordova
@@ -17,7 +17,7 @@ $ ionic serve
 
 
 
-官方发布教程
+ 官方发布教程
  http://ionicframework.com/docs/intro/deploying/
 
 android
